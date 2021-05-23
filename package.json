@@ -1,0 +1,25 @@
+{
+  "name": "my_blockchain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsc -w",
+    "start": "tsc && node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MartinSchvartz/my_blockchain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MartinSchvartz/my_blockchain/issues"
+  },
+  "homepage": "https://github.com/MartinSchvartz/my_blockchain#readme",
+  "devDependencies": {
+    "@types/node": "^15.6.0",
+    "typescript": "^4.2.4"
+  }
+}
